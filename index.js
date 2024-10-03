@@ -1,4 +1,4 @@
-const UUID = process.env.UUID || '79b57e46-966b-4196-a168-3039ed64b305';
+const UUID = process.env.UUID || '9880247e-3dc4-4001-9f29-7f484876fff4';
 const uuid = UUID.replace(/-/g, "");
 const projectPageURL = process.env.URL || '';//
 const intervalInMilliseconds = process.env.TIME || 2 * 60 * 1000;  //
